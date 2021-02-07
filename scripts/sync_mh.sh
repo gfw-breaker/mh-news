@@ -15,7 +15,7 @@ for channel in $channels ; do
 	if [[ ",19,91,81,78,73," == *,$channel,* ]]; then
 		file=cat$channel-2021.js
 	fi 
-	url="http://www.minghui.org/mh/fenlei/$channel/$file" 
+	url="http://www.minghui.org/mh/subsite/$channel/$file" 
 	wget -q $url -O $channel.js
 	sed -i '1s/^.*$/[/' $channel.js	
 	sed -i 's/]];/]]/' $channel.js	
