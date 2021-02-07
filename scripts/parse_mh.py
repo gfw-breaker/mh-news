@@ -66,10 +66,11 @@ for child in root:
 	file_path = '../pages/' + channel + '/' + name 
 
 	if not os.path.exists(file_path):
-	#if True:
-		print file_path
-		content = get_content(link)
-		write_page(name, file_path, title, link, content)
+		try:
+			content = get_content(link)
+			write_page(name, file_path, title, link, content)
+		except:
+			pass
 	index_page += '#### [' + title + '](' + file_path + ') \n\n'
 
 
