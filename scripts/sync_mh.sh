@@ -20,6 +20,7 @@ for channel in $channels ; do
 	sed -i '1s/^.*$/[/' $channel.js	
 	sed -i 's/]];/]]/' $channel.js	
 	sed -i '/369961/d' $channel.js	
+	sed -i '/384542/d' $channel.js	
 	sed -i '/14899.html/d' $channel.js	
 	echo "getting channel: $url"
 	python parse_mh.py $channel
