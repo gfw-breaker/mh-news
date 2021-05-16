@@ -1,240 +1,29 @@
 [
-  <head>
-    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="Cache-control" content="max-age=60">
-    <title></title>
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="/pub/subsite/css/subsite.css">
-    <link rel="stylesheet" type="text/css" href="/pub/cmh2015/mastersubsite.css">
-  </head>
-  <body>   <link rel="stylesheet" type="text/css" href="/pub/cmh2015/css/banner-menusubsite.css?v=20210501" />
-<div id="banner-menu">
-    <div id="topsection">
-        <div style="width:49px; display: inline-block">&#160;</div>
-        <div id="toplink">
-            <span>
-                <a href="/mh/dingyue.html" title="订阅">
-                    <img src="/pub/cmh2015/images/dingyue.png" />
-                </a>
-                <img style="height:16px;margin-bottom:4px;opacity: 0.7;" src="/pub/cmh2015/images/shuxian.png" />
-            </span>
-            <span class="dropdown">
-                <img class="dropbtn" src="/pub/cmh2015/images/xuanzeyueyan.png" />
-                <div class="dropdowncontent">
-                    <ul>
-                     	<li>
-                            <a href="//big5.minghui.org" title="正體中文" target="_blank">正體中文</a>
-                        </li>
-                        <li>
-                            <a href="//bs.minghui.org/" title="波斯尼亚语" target="_blank">Bosanski</a>
-                        </li>
-                        <li>
-                            <a href="//de.minghui.org/" title="德语" target="_blank">Deutsch</a>
-                        </li>
-                        <li>
-                            <a href="//en.minghui.org/" title="英语" target="_blank">English</a>
-                        </li>
-                        <li>
-                            <a href="//es.minghui.org/" title="西班牙语" target="_blank">Español</a>
-                        </li>
-                        <li>
-                            <a href="//fa.minghui.org/" title="波斯语" target="_blank">فارسی</a>
-                        </li>
-                        <li>
-                            <a href="//fr.minghui.org/" title="法语" target="_blank">Francais</a>
-                        </li>
-                        <li>
-                            <a href="//he.minghui.org" title="希伯来语" target="_blank">עברית</a>
-                        </li>
-                        <li>
-                            <a href="//hr.minghui.org/" title="克罗地亚语" target="_blank">Hrvatski</a>
-                        </li>
-                        <li>
-                            <a href="//id.minghui.org/" title="印尼语" target="_blank">Indonesian</a>
-                        </li>
-                        <li>
-                            <a href="//it.minghui.org/" title="意大利语" target="_blank">Italiano</a>
-                        </li>
-                        <li>
-                            <a href="//jp.minghui.org/" title="日语" target="_blank">日本語</a>
-                        </li>
-                        <li>
-                            <a href="//minghui.or.kr/" title="韩语" target="_blank">한국어</a>
-                        </li>
-                        <li>
-                            <a href="//pl.minghui.org/" title="波兰语版" target="_blank">Polski</a>
-                        </li>
-                        <li>
-                            <a href="//pt.minghui.org" title="葡萄牙语" target="_blank">Português</a>
-                        </li>
-                        <li>
-                            <a href="//ru.minghui.org/" title="俄语" target="_blank">Русский</a>
-                        </li>
-                        <li>
-                            <a href="//sk.minghui.org/" title="斯洛伐克语" target="_blank">Slovenčina</a>
-                        </li>
-                        <li>
-                            <a href="//sr.minghui.org/" title="塞尔维亚语" target="_blank">Српски</a>
-                        </li>
-                        <li>
-                            <a href="//vn.minghui.org" title="越南语" target="_blank">tiếng Việt</a>
-                        </li>
-                       
-                    </ul>
-                </div>
-            </span>
-        </div>
-    </div>
-    <div class="banner_links">
-        <a class="banner1" href="/" title="法轮大法明慧网"></a>
-        <a class="banner2" href="/" title="法轮大法明慧网"></a>
-    </div>
-
-   
-</div>
-<div class="menubar_links">
-
-    <div class="menubar_top">
-        <a href="/mh/subsite/ssxw/index.html" title=""><span class="menu11"><img src="/pub/cmh2015/images/mhxinwen.png" /></span></a>
-        <span class="menubar_separator1"><img src="/pub/cmh2015/images/shuxian.png" /></span>
-        <a href="/mh/subsite/rdzt/index.html" title=""><span class="menu21"><img src="/pub/cmh2015/images/redianzhuanti.png" /></span></a>
-        <span class="menubar_separator1"><img src="/pub/cmh2015/images/shuxian.png" /></span>
-        <a href="/mh/subsite/qkw/index.html" title=""><span class="menu31"><img src="/pub/cmh2015/images/mhqikan.png" /></span></a>
-        <span class="menubar_separator1"><img  src="/pub/cmh2015/images/shuxian.png" /></span>
-        <a href="/mh/subsite/xlyd/index.html" title=""><span class="menu41"><img src="/pub/cmh2015/images/mh-xiulianyuandi.png" /></span></a>
-        <span class="menubar_separator1"><img  src="/pub/cmh2015/images/shuxian.png" /></span>
-        <a href="/mh/subsite/whpd/index.html" title=""><span class="menu51"><img src="/pub/cmh2015/images/mh-wenhuapindao.png" /></span></a>
-        <span class="menubar_separator1"><img  src="/pub/cmh2015/images/shuxian.png" /></span>
-        <a href="/mh/subsite/jng/index.html" title=""><span class="menujng"><img src="/pub/cmh2015/images/mh-jinianguan.png" /></span></a>
-        <span class="menubar_separator1"><img src="/pub/cmh2015/images/shuxian.png" /></span>
-        <a href="//search.minghui.org/cgi-bin/search.php" title="检索"><span class="menu71"><img src="/pub/cmh2015/images/jiansuo.png" /></span></a>
-    </div>
-
-</div>            <div id="searchbox">
-            <form action='//search.minghui.org/cgi-bin/search.php' method='get' accept-charset="UTF-8">
-            <input type="text" value="" maxlength="255" name="str" class="inputtext" autocomplete="off"><input type="image" src="/pub/cmh2015/images/button_search.png" title="启动检索" class="inputimage">
-            </form>
-        <!-- end searchbox --></div>
- 
-    <div style="text-align: center;font-size: 30px;font-weight: bold;margin-top:50px;">
-        在建设中 ...
-    </div>
-      ﻿<div class="footer black">
-    <div class="footer_left">
-        <div class="footer_list1">
-            <div>
-                <div class="footercopyrighttitle">
-
-                    明慧网版权所有<span class="en"> © </span>1999-2021
-
-                </div>
-                <div class="footercopyrighttitle2">
-                    <span>
-                        本文章或节目明慧网版权所有，非盈利转载请注明来源明慧网，<br />并包含明慧网原文标题及原文链接。
-                    </span>
-                </div>
-                <div class="footercopyrighttitle2">
-                    <a href="/mh/about-us.html">关于我们</a>
-                </div>
-                <div class="footercopyrighttitle2">
-                    <span class="footerontactwomen">
-                        <a href="/mh/submit.html">投稿说明</a>
-                    </span>
-                </div>
-                <div class="footercopyrighttitle2">
-                    <span class="footerontactwomen">
-                        <a href="/mh/contact-us.html">联系我们</a>
-                    </span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="footer_middle">
-        <div style=" display: flex; ">
-            <div>
-                <ul class="footercol2">
-                    <li>
-                        <a href="//big5.minghui.org/" onclick="javascript:return change_language('b5');">
-                            正體中文
-                        </a>
-                    </li>
-                    <li>
-                        <a href="//www.minghui.org/" onclick="javascript:return change_language('gb');">
-                            简体中文
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <ul class="footercol3 footerIntl">
-                    <li>
-                        <a href="//bs.minghui.org/" title="波斯尼亚语" target="_blank">Bosanski</a>
-                    </li>
-                    <li>
-                        <a href="//de.minghui.org/" title="德语" target="_blank">Deutsch</a>
-                    </li>
-                    <li>
-                        <a href="//en.minghui.org/" title="英语" target="_blank">English</a>
-                    </li>
-                    <li>
-                        <a href="//es.minghui.org/" title="西班牙语" target="_blank">Español</a>
-                    </li>
-                    <li>
-                        <a href="//fa.minghui.org/" title="波斯语" target="_blank">فارسی</a>
-                    </li>
-                    <li>
-                        <a href="//fr.minghui.org/" title="法语" target="_blank">Francais</a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <ul class="footercol4 footerIntl">
-                    <li class="col2 ">
-                        <a href="//he.minghui.org" title="希伯来语" target="_blank">עברית</a>
-                    </li>
-                    <li class="col2">
-                        <a href="//hr.minghui.org/" title="克罗地亚语" target="_blank">Hrvatski</a>
-                    </li>
-                    <li class="col2">
-                        <a href="//id.minghui.org/" title="印尼语" target="_blank">Indonesian</a>
-                    </li>
-                    <li class="col2">
-                        <a href="//it.minghui.org/" title="意大利语" target="_blank">Italiano</a>
-                    </li>
-                    <li class="col2">
-                        <a href="//jp.minghui.org/" title="日语" target="_blank">日本語</a>
-                    </li>
-                    <li class="col2">
-                        <a href="//minghui.or.kr/" title="韩语" target="_blank">한국어</a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <ul class="footercol5 footerIntl">
-                    <li class="col3 ">
-                        <a href="//pl.minghui.org/" title="波兰语版" target="_blank">Polski</a>
-                    </li>
-                    <li class="col3">
-                        <a href="//pt.minghui.org" title="葡萄牙语" target="_blank">Português</a>
-                    </li>
-                    <li class="col3">
-                        <a href="//ru.minghui.org/" title="俄语" target="_blank">Русский</a>
-                    </li>
-                    <li class="col3">
-                        <a href="//sk.minghui.org/" title="斯洛伐克语" target="_blank">Slovenčina</a>
-                    </li>
-                    <li class="col3">
-                        <a href="//sr.minghui.org/" title="塞尔维亚语" target="_blank">Српски</a>
-                    </li>
-                    <li class="col3">
-                        <a href="//vn.minghui.org" title="越南语" target="_blank">tiếng Việt</a>
-                    </li>
-                </ul>
-            </div>
-
-        </div>
-    </div>
-    
-</div> 
-  </body>
-</Html>
+[79000001,"3分钟视频：药物经济学博士视力神奇恢复", "2021年05月06日", "/mh/articles/2021/5/6/3分钟视频-药物经济学博士视力神奇恢复-424272.html"],
+[79000002,"三分钟视频：肾癌患者的传奇故事", "2021年04月22日", "/mh/articles/2021/4/22/三分钟视频-肾癌患者的传奇故事-423675.html"],
+[79000003,"三分钟视频：生死时刻五个字救了他的命", "2021年04月14日", "/mh/articles/2021/4/14/三分钟视频-生死时刻五个字救了他的命-423364.html"],
+[79000004,"三分钟视频：药学博士气喘缠身　读一本宝书顽疾消", "2021年04月04日", "/mh/articles/2021/4/4/三分钟视频-药学博士气喘缠身-读一本宝书顽疾消-422957.html"],
+[79000005,"三分钟视频：名医的独特治病良方", "2021年03月14日", "/mh/articles/2021/3/14/三分钟视频-名医的独特治病良方-422078.html"],
+[79000006,"五分钟视频：一位国务院官员九死一生的经历", "2021年02月24日", "/mh/articles/2021/2/24/五分钟视频-一位国务院官员九死一生的经历-421304.html"],
+[79000007,"三分钟视频：读一本奇书　各国专家惊叹", "2021年02月22日", "/mh/articles/2021/2/22/三分钟视频-读一本奇书-各国专家惊叹-421227.html"],
+[79000008,"三分钟视频：纽约珠宝商奇遇记", "2021年02月17日", "/mh/articles/2021/2/17/三分钟视频-纽约珠宝商奇遇记-421024.html"],
+[79000009,"三分钟视频：2021变种病毒大流行　灾难与救赎", "2021年01月20日", "/mh/articles/2021/1/20/三分钟视频-2021变种病毒大流行-灾难与救赎-418804.html"],
+[79000010,"三分钟视频：人权恶棍的报应越来越近了", "2021年01月17日", "/mh/articles/2021/1/17/三分钟视频-人权恶棍的报应越来越近了-418656.html"],
+[79000011,"三分钟视频：迫害法轮功　厦门警察遭美制裁", "2021年01月06日", "/mh/articles/2021/1/6/三分钟视频-迫害法轮功-厦门警察遭美制裁-418148.html"],
+[79000012,"四分钟视频：梦在他乡", "2021年01月05日", "/mh/articles/2021/1/5/四分钟视频-梦在他乡-417149.html"],
+[79000013,"五分钟视频：特大矿难神奇脱险记", "2021年01月04日", "/mh/articles/2021/1/4/五分钟视频-特大矿难神奇脱险记-418018.html"],
+[79000014,"三分钟视频：武汉肺炎的“特效药”", "2021年01月03日", "/mh/articles/2021/1/3/三分钟视频-武汉肺炎的“特效药”-418019.html"],
+[80000015,"四分钟视频：见证生命奇迹 探寻艺术真谛", "2020年12月29日", "/mh/articles/2020/12/29/四分钟视频-见证生命奇迹-探寻艺术真谛-417148.html"],
+[80000016,"三分钟视频：不悔的选择", "2020年12月17日", "/mh/articles/2020/12/17/三分钟视频-不悔的选择-416633.html"],
+[80000017,"三分钟短视频：中国百姓看不起病的背后真相", "2020年12月05日", "/mh/articles/2020/12/5/三分钟短视频-中国百姓看不起病的背后真相-416030.html"],
+[80000018,"三分钟视频：选对总统　拒绝共产主义入侵", "2020年12月02日", "/mh/articles/2020/12/2/三分钟视频-选对总统-拒绝共产主义入侵-415913.html"],
+[80000019,"三分钟视频：神奇戒毒——史蒂文一家的故事", "2020年11月25日", "/mh/articles/2020/11/25/三分钟视频-神奇戒毒——史蒂文一家的故事-415489.html"],
+[80000020,"三分钟视频：高校学子化解烦恼有良方", "2020年11月24日", "/mh/articles/2020/11/24/三分钟视频-高校学子化解烦恼有良方-415490.html"],
+[80000021,"五分钟视频：音乐人双肺75%坏死 念九字真言一周康复", "2020年11月16日", "/mh/articles/2020/11/16/五分钟视频-音乐人双肺75-坏死-念九字真言一周康复-415163.html"],
+[80000022,"三分钟短视频：美禁止党员移民　主动三退可解忧", "2020年11月09日", "/mh/articles/2020/11/9/三分钟短视频-美禁止党员移民-主动三退可解忧-414839.html"],
+[80000023,"三分钟视频：美出移民新规　退党激增几十倍", "2020年10月28日", "/mh/articles/2020/10/28/三分钟视频-美出移民新规-退党激增几十倍-414312.html"],
+[80000024,"三分钟视频：“1400例”假新闻　您看穿了吗？", "2020年10月17日", "/mh/articles/2020/10/17/三分钟视频-“1400例”假新闻-您看穿了吗--413862.html"],
+[80000025,"三分钟视频：万人上访是咋回事？", "2020年10月16日", "/mh/articles/2020/10/16/三分钟视频-万人上访是咋回事--413861.html"],
+[80000026,"三分钟视频：党员最担心的事终于来了", "2020年10月13日", "/mh/articles/2020/10/13/三分钟视频-党员最担心的事终于来了-413740.html"],
+[80000027,"8分钟视频：肝硬化患者毛凤英的人生悲喜", "2020年10月08日", "/mh/articles/2020/10/8/8分钟视频-肝硬化患者毛凤英的人生悲喜-413502.html"],
+[80000028,"三分钟视频：翻墙看世界　让自己与世界相连", "2020年09月21日", "/mh/articles/2020/9/21/三分钟视频-翻墙看世界-让自己与世界相连-412090.html"]]
