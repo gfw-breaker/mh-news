@@ -205,7 +205,7 @@
                         <a href="//jp.minghui.org/" title="日语" target="_blank">日本語</a>
                     </li>
                     <li class="col2">
-                        <a href="//minghui.or.kr/" title="韩语" target="_blank">한국어</a>
+                        <a href="//www.minghui.or.kr/" title="韩语" target="_blank">한국어</a>
                     </li>
                     <li class="col2">
                         <a href="//vn.minghui.org" title="越南语" target="_blank">tiếng Việt</a>
@@ -230,7 +230,7 @@
                         <a href="//sr.minghui.org/" title="塞尔维亚语" target="_blank">Српски</a>
                     </li>
                     <li class="col3">
-                        <a href="http://th.minghui.org/" title="泰语 - Thai / ไทย" target="_blank">ไทย</a>
+                        <a href="//th.minghui.org/" title="泰语 - Thai / ไทย" target="_blank">ไทย</a>
                     </li>
                     <li class="col3">
                         <a href="//th.minghui.org/" title="土耳其语 - Türkçe" target="_blank">Türkçe</a>
