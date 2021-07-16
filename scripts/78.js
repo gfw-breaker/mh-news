@@ -59,7 +59,7 @@
                             <a href="//jp.minghui.org/" title="日语" target="_blank">日本語</a>
                         </li>
                         <li>
-                            <a href="//minghui.or.kr/" title="韩语" target="_blank">한국어</a>
+                            <a href="//www.minghui.or.kr/" title="韩语" target="_blank">한국어</a>
                         </li>
                         <li>
                             <a href="//pl.minghui.org/" title="波兰语版" target="_blank">Polski</a>
@@ -76,6 +76,12 @@
                         <li>
                             <a href="//sr.minghui.org/" title="塞尔维亚语" target="_blank">Српски</a>
                         </li>
+						<li>
+							<a href="//th.minghui.org/" title="泰语 - Thai / ไทย" target="_blank">ไทย</a>
+						</li>
+						<li>
+							<a href="//tr.minghui.org/" title="土耳其语版 - Türkçe" target="_blank">Türkçe</a>
+						</li>
                         <li>
                             <a href="//vn.minghui.org" title="越南语" target="_blank">tiếng Việt</a>
                         </li>
